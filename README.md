@@ -7,14 +7,14 @@ GoToWebinar OAuth2 Strategy for OmniAuth 1.0.
 Add to your `Gemfile`:
 
 ```ruby
-gem 'omniauth-gotowebinar-oauth2'
+gem 'omniauth-gotowebinar'
 ```
 
 Then `bundle install`.
 
 Or install it yourself as:
 
-    $ gem install omniauth-gotowebinar-oauth2
+    $ gem install omniauth-gotowebinar
 
 ## Usage
 
